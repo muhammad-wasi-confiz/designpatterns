@@ -1,0 +1,3 @@
+/opt/designpatterns/templatemethod/src/main/java/org/confiz/template/TimeLoggingTask.java
+/opt/designpatterns/templatemethod/src/main/java/org/confiz/template/AbstractTimeLoggingTask.java
+/opt/designpatterns/templatemethod/src/main/java/org/confiz/template/HttpClientTemplate.java

@@ -1,0 +1,5 @@
+org/confiz/DriverClass.class
+org/confiz/Observable.class
+org/confiz/Message.class
+org/confiz/MessageTopic.class
+org/confiz/Observer.class

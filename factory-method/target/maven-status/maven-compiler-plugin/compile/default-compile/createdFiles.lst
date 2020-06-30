@@ -1,0 +1,7 @@
+org/confiz/ProcessFinalizerCommand.class
+org/confiz/Command.class
+org/confiz/ProcessElementCommand.class
+org/confiz/CommandType.class
+org/confiz/ProcessActivityCommandFactory$1.class
+org/confiz/MergeVariablesCommand.class
+org/confiz/ProcessActivityCommandFactory.class

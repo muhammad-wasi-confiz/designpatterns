@@ -1,0 +1,7 @@
+org/confiz/ConfigurationFactory.class
+org/confiz/configurations/StageConfiguration.class
+org/confiz/configurations/DevConfiguration.class
+org/confiz/configurations/ProdConfiguration.class
+org/confiz/configurations/ConfigType.class
+org/confiz/ConfigurationFactory$1.class
+org/confiz/configurations/Configuration.class

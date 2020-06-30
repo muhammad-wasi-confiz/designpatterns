@@ -1,0 +1,5 @@
+org/confiz/Promotion.class
+org/confiz/PromotionServiceImpl.class
+org/confiz/CachedPromotionProxy.class
+org/confiz/PromotionService.class
+org/confiz/Region.class

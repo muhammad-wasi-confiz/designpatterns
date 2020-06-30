@@ -1,0 +1,6 @@
+/opt/designpatterns/factory-method/src/main/java/org/confiz/ProcessElementCommand.java
+/opt/designpatterns/factory-method/src/main/java/org/confiz/ProcessActivityCommandFactory.java
+/opt/designpatterns/factory-method/src/main/java/org/confiz/MergeVariablesCommand.java
+/opt/designpatterns/factory-method/src/main/java/org/confiz/ProcessFinalizerCommand.java
+/opt/designpatterns/factory-method/src/main/java/org/confiz/CommandType.java
+/opt/designpatterns/factory-method/src/main/java/org/confiz/Command.java

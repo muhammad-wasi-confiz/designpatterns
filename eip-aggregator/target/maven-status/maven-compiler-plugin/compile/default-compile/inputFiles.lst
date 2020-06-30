@@ -1,0 +1,4 @@
+/opt/designpatterns/aggregator/src/main/java/org/confiz/routes/MessageAggregationStrategy.java
+/opt/designpatterns/aggregator/src/main/java/org/confiz/routes/AggregatorRoute.java
+/opt/designpatterns/aggregator/src/main/java/org/confiz/routes/MainEndpointRoute.java
+/opt/designpatterns/aggregator/src/main/java/org/confiz/AggregatorApplication.java

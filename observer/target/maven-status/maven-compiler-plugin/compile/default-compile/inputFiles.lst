@@ -1,0 +1,5 @@
+/opt/designpatterns/observer/src/main/java/org/confiz/Message.java
+/opt/designpatterns/observer/src/main/java/org/confiz/DriverClass.java
+/opt/designpatterns/observer/src/main/java/org/confiz/Observable.java
+/opt/designpatterns/observer/src/main/java/org/confiz/Observer.java
+/opt/designpatterns/observer/src/main/java/org/confiz/MessageTopic.java

@@ -1,0 +1,3 @@
+org/confiz/routes/LoadBalancerRoutes.class
+org/confiz/routes/EntryPointRoute.class
+org/confiz/LoadBalancerApplication.class

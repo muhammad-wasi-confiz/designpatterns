@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/builder/builder.iml" filepath="$PROJECT_DIR$/builder/builder.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chain/chain.iml" filepath="$PROJECT_DIR$/chain/chain.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cndp-circuit-breaker/cndp-circuit-breaker.iml" filepath="$PROJECT_DIR$/cndp-circuit-breaker/cndp-circuit-breaker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/command/command.iml" filepath="$PROJECT_DIR$/command/command.iml" />
+      <module fileurl="file://$PROJECT_DIR$/decorator/decorator.iml" filepath="$PROJECT_DIR$/decorator/decorator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/design-patterns.iml" filepath="$PROJECT_DIR$/design-patterns.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eip-aggregator/eip-aggregator.iml" filepath="$PROJECT_DIR$/eip-aggregator/eip-aggregator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eip-load-balancer/eip-load-balancer.iml" filepath="$PROJECT_DIR$/eip-load-balancer/eip-load-balancer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eip-message-translator/eip-message-translator.iml" filepath="$PROJECT_DIR$/eip-message-translator/eip-message-translator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eip-splitter/eip-splitter.iml" filepath="$PROJECT_DIR$/eip-splitter/eip-splitter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eip-wire-tap/eip-wire-tap.iml" filepath="$PROJECT_DIR$/eip-wire-tap/eip-wire-tap.iml" />
+      <module fileurl="file://$PROJECT_DIR$/factory-method/factory-method.iml" filepath="$PROJECT_DIR$/factory-method/factory-method.iml" />
+      <module fileurl="file://$PROJECT_DIR$/flyweight/flyweight.iml" filepath="$PROJECT_DIR$/flyweight/flyweight.iml" />
+      <module fileurl="file://$PROJECT_DIR$/observer/observer.iml" filepath="$PROJECT_DIR$/observer/observer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/proxy/proxy.iml" filepath="$PROJECT_DIR$/proxy/proxy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/singleton/singleton.iml" filepath="$PROJECT_DIR$/singleton/singleton.iml" />
+      <module fileurl="file://$PROJECT_DIR$/template-method/template-method.iml" filepath="$PROJECT_DIR$/template-method/template-method.iml" />
+    </modules>
+  </component>
+</project>

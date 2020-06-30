@@ -1,0 +1,4 @@
+org/confiz/AggregatorApplication.class
+org/confiz/routes/MainEndpointRoute.class
+org/confiz/routes/MessageAggregationStrategy.class
+org/confiz/routes/AggregatorRoute.class

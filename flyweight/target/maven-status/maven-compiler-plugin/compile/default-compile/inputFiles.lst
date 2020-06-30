@@ -1,0 +1,6 @@
+/opt/designpatterns/flyweight/src/main/java/org/confiz/configurations/ConfigType.java
+/opt/designpatterns/flyweight/src/main/java/org/confiz/configurations/Configuration.java
+/opt/designpatterns/flyweight/src/main/java/org/confiz/ConfigurationFactory.java
+/opt/designpatterns/flyweight/src/main/java/org/confiz/configurations/StageConfiguration.java
+/opt/designpatterns/flyweight/src/main/java/org/confiz/configurations/ProdConfiguration.java
+/opt/designpatterns/flyweight/src/main/java/org/confiz/configurations/DevConfiguration.java

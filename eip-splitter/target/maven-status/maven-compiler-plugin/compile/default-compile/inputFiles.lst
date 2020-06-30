@@ -1,0 +1,8 @@
+/opt/designpatterns/splitter/src/main/java/org/confiz/splitter/CustomerService.java
+/opt/designpatterns/splitter/src/main/java/org/confiz/routes/AggregatorRoute.java
+/opt/designpatterns/splitter/src/main/java/org/confiz/routes/SplitterRoute.java
+/opt/designpatterns/splitter/src/main/java/org/confiz/routes/EndpointRoute.java
+/opt/designpatterns/splitter/src/main/java/org/confiz/model/Department.java
+/opt/designpatterns/splitter/src/main/java/org/confiz/model/Customer.java
+/opt/designpatterns/splitter/src/main/java/org/confiz/routes/MessageAggregationStrategy.java
+/opt/designpatterns/splitter/src/main/java/org/confiz/SplitterApplication.java

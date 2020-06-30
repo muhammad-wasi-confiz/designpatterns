@@ -1,0 +1,4 @@
+/opt/designpatterns/chain/src/main/java/org/confiz/chain/handlers/JsonResponseHandler.java
+/opt/designpatterns/chain/src/main/java/org/confiz/chain/Response.java
+/opt/designpatterns/chain/src/main/java/org/confiz/chain/handlers/ResponseHandler.java
+/opt/designpatterns/chain/src/main/java/org/confiz/chain/handlers/XmlResponseHandler.java

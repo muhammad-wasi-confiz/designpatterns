@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="aggregator" />
+        <module name="aggregator (1)" />
+        <module name="aggregator1" />
+        <module name="builder" />
+        <module name="chain" />
+        <module name="cndpcircuitbreaker" />
+        <module name="command" />
+        <module name="decorator" />
+        <module name="eip-aggregator" />
+        <module name="eip-load-balancer" />
+        <module name="eip-message-translator" />
+        <module name="eip-splitter" />
+        <module name="eip-wire-tap" />
+        <module name="factory-method" />
+        <module name="factorymethod" />
+        <module name="flyweight" />
+        <module name="message-translator" />
+        <module name="messagetranslator" />
+        <module name="messagetranslator1" />
+        <module name="observer" />
+        <module name="proxy" />
+        <module name="singleton" />
+        <module name="template-method" />
+        <module name="templatemethod" />
+      </profile>
+      <profile name="Annotation profile for design-patterns" enabled="true">
+        <sourceOutputDir name="../eip-splitter/target/generated-sources/annotations" />
+        <sourceTestOutputDir name="../eip-splitter/target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="splitter" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="adapter" target="1.8" />
+      <module name="aggregator" target="1.8" />
+      <module name="aggregator (1)" target="1.8" />
+      <module name="aggregator1" target="1.8" />
+      <module name="builder" target="1.8" />
+      <module name="chain" target="1.8" />
+      <module name="cndp-circuit-breaker" target="1.8" />
+      <module name="cndpcircuitbreaker" target="1.8" />
+      <module name="command" target="1.8" />
+      <module name="decorator" target="1.8" />
+      <module name="design-patterns" target="1.8" />
+      <module name="designpatterns" target="1.8" />
+      <module name="eip-aggregator" target="1.8" />
+      <module name="eip-load-balancer" target="1.8" />
+      <module name="eip-message-translator" target="1.8" />
+      <module name="eip-splitter" target="1.8" />
+      <module name="eip-wire-tap" target="1.8" />
+      <module name="eip-wire-tap (1)" target="1.8" />
+      <module name="factory-method" target="1.8" />
+      <module name="factorymethod" target="1.8" />
+      <module name="flyweight" target="1.8" />
+      <module name="message-translator" target="1.8" />
+      <module name="message-translator-spring" target="1.8" />
+      <module name="messagetranslator" target="1.8" />
+      <module name="messagetranslator1" target="1.8" />
+      <module name="observer" target="1.8" />
+      <module name="proxy" target="1.8" />
+      <module name="singleton" target="1.8" />
+      <module name="splitter" target="1.8" />
+      <module name="template-method" target="1.8" />
+      <module name="templatemethod" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

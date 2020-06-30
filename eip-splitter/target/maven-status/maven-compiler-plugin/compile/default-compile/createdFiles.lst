@@ -1,0 +1,8 @@
+org/confiz/routes/SplitterRoute.class
+org/confiz/routes/MessageAggregationStrategy.class
+org/confiz/model/Customer.class
+org/confiz/model/Department.class
+org/confiz/routes/EndpointRoute.class
+org/confiz/SplitterApplication.class
+org/confiz/routes/AggregatorRoute.class
+org/confiz/splitter/CustomerService.class

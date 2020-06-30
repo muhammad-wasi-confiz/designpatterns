@@ -1,0 +1,5 @@
+/opt/designpatterns/proxy/src/main/java/org/confiz/Promotion.java
+/opt/designpatterns/proxy/src/main/java/org/confiz/Region.java
+/opt/designpatterns/proxy/src/main/java/org/confiz/CachedPromotionProxy.java
+/opt/designpatterns/proxy/src/main/java/org/confiz/PromotionService.java
+/opt/designpatterns/proxy/src/main/java/org/confiz/PromotionServiceImpl.java

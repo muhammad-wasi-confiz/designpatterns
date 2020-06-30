@@ -1,0 +1,4 @@
+org/confiz/chain/handlers/JsonResponseHandler.class
+org/confiz/chain/handlers/ResponseHandler.class
+org/confiz/chain/Response.class
+org/confiz/chain/handlers/XmlResponseHandler.class
